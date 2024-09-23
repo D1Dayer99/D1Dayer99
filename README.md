@@ -1,4 +1,4 @@
-## Hi , I'm David.
+## Hi, I'm David.
 
 I'm an aspiring Data Scientist currently in Honours Mathematics at UWaterloo. I mostly make projects that facilitates learning my hobbies.
 
